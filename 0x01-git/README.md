@@ -1,1 +1,1 @@
-the readme file at the root of the new directory
+the only time i am permitted to update my readme file from the github interface
